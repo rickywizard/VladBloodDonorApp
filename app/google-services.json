@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "906619929706",
+    "project_id": "vladdonorapp",
+    "storage_bucket": "vladdonorapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906619929706:android:2319046fdb9d2b3d59b613",
+        "android_client_info": {
+          "package_name": "com.oop.vladblooddonorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906619929706-r1ome4j6o9uei9bn9gdhuh7e72qoicln.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oop.vladblooddonorapp",
+            "certificate_hash": "418583540043bb722b3cf219b09d7da0fe102c88"
+          }
+        },
+        {
+          "client_id": "906619929706-89e9gr0itovide6hcf08f912um7uetob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7lEKODJ6abF2BwBhuMhwd_SKDuQOansw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906619929706-89e9gr0itovide6hcf08f912um7uetob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

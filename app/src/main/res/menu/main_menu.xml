@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_myfeed"
+        android:title="@string/home_menu" />
+
+    <item
+        android:id="@+id/sentEmail"
+        android:icon="@drawable/ic_check"
+        android:title="@string/donor_email_menu" />
+
+    <item
+        android:id="@+id/compatible"
+        android:icon="@drawable/compatible"
+        android:title="@string/compatible_menu" />
+
+    <item
+        android:title="@string/blood_groups_menu">
+
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/aplus"
+                    android:icon="@drawable/aplus"
+                    android:title="@string/a_positive" />
+
+                <item
+                    android:id="@+id/aminus"
+                    android:icon="@drawable/aminus"
+                    android:title="@string/a_negative" />
+
+                <item
+                    android:id="@+id/bplus"
+                    android:icon="@drawable/bplus"
+                    android:title="@string/b_positive" />
+
+                <item
+                    android:id="@+id/bminus"
+                    android:icon="@drawable/bminus"
+                    android:title="@string/b_negative" />
+
+                <item
+                    android:id="@+id/abplus"
+                    android:icon="@drawable/abplus"
+                    android:title="@string/ab_positive" />
+
+                <item
+                    android:id="@+id/abminus"
+                    android:icon="@drawable/abminus"
+                    android:title="@string/ab_negative" />
+
+                <item
+                    android:id="@+id/oplus"
+                    android:icon="@drawable/oplus"
+                    android:title="@string/o_positive" />
+
+                <item
+                    android:id="@+id/ominus"
+                    android:icon="@drawable/ominus"
+                    android:title="@string/o_negative" />
+            </group>
+        </menu>
+
+    </item>
+
+    <item
+        android:title="@string/actions_menu">
+
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/profile"
+                    android:icon="@drawable/ic_baseline_person_24"
+                    android:title="@string/profile_menu" />
+
+                <item
+                    android:id="@+id/notifications"
+                    android:visible="false"
+                    android:icon="@drawable/ic_notifications"
+                    android:title="@string/notifications_menu" />
+
+                <item
+                    android:id="@+id/logout"
+                    android:icon="@drawable/ic_logout"
+                    android:title="@string/logout_menu" />
+
+            </group>
+        </menu>
+
+    </item>
+
+</menu>

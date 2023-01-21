@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Vlad</string>
+    <string name="app_slogan">Your Blood Taste Good!</string>
+    <string name="hello">Hello, welcome to VLAD!</string>
+    <string name="donor_registration_btn">Donor Registration</string>
+    <string name="recipient_registration_btn">Recipient Registration</string>
+    <string name="content_desc">VLAD LOGO</string>
+    <string name="to_login">Already registered? <u>Sign in</u></string>
+    <string name="donor_registration_title">Donor Registration</string>
+    <string name="sign_up_to_continue">Sign up to continue</string>
+    <string name="full_name">Full Name</string>
+    <string name="id_number">ID number</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email_input">Email</string>
+    <string name="password_input">Password</string>
+    <string name="sign_up_text">Sign Up</string>
+    <string name="login_page_text">Welcome Back!</string>
+    <string name="login_to_continue_text">Login to continue</string>
+    <string name="login_text">Login</string>
+    <string name="don_t_have_account_sign_up">Don\'t have account? <u>Sign up</u></string>
+    <string name="forgot_password_text">Forgot password?</string>
+    <string name="home_menu">Home</string>
+    <string name="donor_email_menu">Donors Emailed</string>
+    <string name="blood_groups_menu">Blood Groups</string>
+    <string name="a_positive">A Positive</string>
+    <string name="a_negative">A Negative</string>
+    <string name="b_positive">B Positive</string>
+    <string name="b_negative">B Negative</string>
+    <string name="ab_positive">AB Positive</string>
+    <string name="ab_negative">AB Negative</string>
+    <string name="o_positive">O Positive</string>
+    <string name="o_negative">O Negative</string>
+    <string name="actions_menu">Actions</string>
+    <string name="profile_menu">Profile</string>
+    <string name="notifications_menu">Notifications</string>
+    <string name="logout_menu">Logout</string>
+    <string name="communicate_menu">Communicate</string>
+    <string name="about_menu">About</string>
+    <string name="share_menu">Share</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="back_button_text">Back</string>
+    <string name="email_text">Email</string>
+    <string name="compatible_menu">Compatible with me</string>
+
+    <string-array name="blood_type">
+        <item>Select blood type</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>O+</item>
+        <item>O-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+    </string-array>
+</resources>
